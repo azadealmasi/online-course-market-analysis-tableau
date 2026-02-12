@@ -1,41 +1,28 @@
-# online-course-market-analysis-tableau
-This project presents an interactive Tableau Public dashboard that analyses trends in the online learning (MOOC/EdTech) market using course platform datasets, providing insights into subscriber growth, subject popularity, course levels, reviews, and yearly performance.
+# Online Course Market Analysis Dashboard (Tableau)
 
-The dashboard explores:
+## Overview
+This project presents an interactive Tableau Public dashboard that explores trends in the online learning (MOOC/EdTech) market using real-world course platform datasets. 
 
-Course distribution by subject
+The analysis uncovers patterns in subscriber growth, subject demand, course levels, learner engagement, and yearly performance to provide actionable business and market insights.
 
-Subscriber growth over time
+## Objectives
+- Identify the most popular course categories and subjects
+- Analyze subscriber and review trends over time
+- Compare demand across course levels (Beginner, Intermediate, Expert)
+- Understand learner engagement and platform growth
+- Design a clear and professional business intelligence dashboard
 
-Reviews and engagement metrics
+## Dashboard Features
+- KPI summary metrics
+- Subscriber growth trends by year
+- Subject popularity comparison
+- Course level distribution analysis
+- Reviews and engagement insights
+- Interactive filters for exploration
 
-Course levels (Beginner → Expert)
-
-Market trends across years
-
-The goal is to provide business insights and data-driven decision support for understanding learner behaviour and subject demand in online education platforms.
-
-Objectives
-
-Identify the most popular course categories
-
-Analyse subscriber growth trends over the years
-
-Compare engagement using reviews
-
-Understand level-wise demand (Beginner/Intermediate/Expert)
-
-Build a clean, professional BI dashboard using Tableau
-
-
-Key Insights
-
-Web Development dominates both subscriptions and reviews
-
-Beginner-level courses attract the majority of learners
-
-Rapid subscriber growth observed around 2014–2016
-
-Business & Finance courses show consistent engagement
-
-Advanced/Expert level demand remains comparatively low
+## Tools & Skills
+- Tableau Public
+- Data Visualisation
+- Exploratory Data Analysis (EDA)
+- Dashboard Design
+- Business Intelligence Storytelling
